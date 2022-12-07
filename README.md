@@ -2,6 +2,8 @@
 
 A starter [SvelteKit](https://kit.svelte.dev) project for [Threlte](https://threlte.xyz).
 
+[Live demo](https://threlte-starter.vercel.app)
+
 ## Usage
 
 To set up on your local machine:
@@ -13,7 +15,15 @@ pnpm install
 pnpm dev
 ```
 
-Then, have fun!
+## Deploy
+
+To deploy your project:
+
+```sh
+pnpm vercel
+```
+
+...and don't forget to have fun!
 
 ## License
 
